@@ -1,0 +1,134 @@
+body{
+ margin: 0;
+ text-align: center;
+ font-family: 'PT Sans Narrow', sans-serif;
+
+}
+
+h1{
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5.62rem;
+color: #66BFBF;
+line-height: 2;
+}
+img{
+  padding: 50px 0 50px 0;
+}
+
+.web{
+  font-size: 1.5rem;
+  font-family: 'PT Sans Narrow', sans-serif;
+  margin: 0 auto 0 auto;
+  font-weight: normal;
+
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+h3{
+  color: #11999E;
+  font-weight: normal;
+}
+h4{
+  color: #40514E;
+  font-weight: lighter;
+}
+
+hr{
+  border-top-style: dotted;
+  border-color: #D5D5D5;
+  border-bottom-style: none;
+  border-top-width: 5px;
+  width: 100px;
+  margin: 50px auto 50px auto;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 110px 0 380px 0;
+
+
+
+}
+
+.mountain {
+  position: absolute;
+  bottom: 1px;
+  right: 400px;
+}
+.top-img{
+  position: absolute;
+  right: 400px;
+  top: 59px;
+}
+.bottom-img{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+
+}
+.skill-row{
+
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+  width: 30%;
+}
+ul{
+  color: #66BFBF;
+}
+.middle-container{
+  line-height: 2;
+}
+.laptop{
+  width: 100px;
+  float: left;
+  margin-right: 20px;
+  padding-top: 10px;
+}
+.coding-language{
+ width: 100px;
+float: right;
+margin-right: 90px;
+}
+.contact-me{
+  line-height: 2;
+
+}
+.btn{
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  background-color: #11999E;
+}
+.btn:hover{
+  background-color: #66BFBF;
+  color: black;
+}
+.bottom-container{
+  background-color: #11999E;
+  line-height: 3;
+  padding: 10px 0 10px 0;
+  position: relative;
+  top: 20px;
+}
+.education{
+  display: inline-block;
+}
+
+.footer-link{
+  background-color: #11999E;
+  color: #66BFBF;
+}
+a:hover{
+  color: white;
+}
+.education:visited{
+color: #11999E; 
+}
