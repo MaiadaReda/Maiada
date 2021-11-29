@@ -136,10 +136,16 @@ margin-right: 90px;
   background-color: #11999E;
   color: #66BFBF;
   text-decoration: none;
+  margin: auto 40px auto 40px;
 }
 a:hover{
   color: white;
 }
 .education:visited{
 color: #11999E;
+}
+.copyrights{
+  font-size: .8rem;
+  font-weight: lighter;
+  line-height: 2;
 }
