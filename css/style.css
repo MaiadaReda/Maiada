@@ -107,12 +107,14 @@ margin-right: 90px;
 .contact-me{
   line-height: 2;
 
+
 }
 .btn{
   color: white;
   padding: 10px 20px 10px 20px;
   border-radius: 20px;
   background-color: #11999E;
+  text-decoration: none;
 }
 .btn:hover{
   background-color: #66BFBF;
@@ -127,11 +129,13 @@ margin-right: 90px;
 }
 .education{
   display: inline-block;
+  text-decoration: none;
 }
 
 .footer-link{
   background-color: #11999E;
   color: #66BFBF;
+  text-decoration: none;
 }
 a:hover{
   color: white;
